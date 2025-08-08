@@ -1,0 +1,214 @@
+{
+  "addons": [
+    {
+      "id": "game",
+      "version": "1.21.8"
+    },
+    {
+      "id": "fabric",
+      "version": "0.17.1"
+    }
+  ],
+  "author": "Uniaball",
+  "description": "更新公告：1.更新fabric版本到0.17.1 2.为iris添加注释 3.将better fps默认禁用并修改注释（建议启用） 4.弃用fix gpu memory fix，使用gputape 5.更新钠的0.7.0快照到build.705 6.为铁氧体磁芯修改注释并默认禁用（建议启用） 7.删除c2me的注释，且以后只会使用release版本的",
+  "fileApi": "",
+  "files": [
+    {
+      "hash": "c76a1cd624d8ad517f307ad0fc8484c4b3eabe97",
+      "path": "mods/fabric-api-0.131.0+1.21.8.jar",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "hash": "e3fd0ea424eab5dcc7afb125a40c24c830392098",
+      "path": "mods/cullleaves-fabric-4.0.5.jar",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "hash": "d8b8fff9c7f3c5c9a3ba01ec9f18b8a87b1d3146",
+      "path": "mods/noisium-fabric-2.7.0+mc1.21.8.jar",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "hash": "1edc85f646ff18d6a0be03c349241a6be7a250af",
+      "path": "mods/GpuTape-1.0.6.1-1.21.5.jar",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "hash": "82c0e61eb3c51ab13a1b94c62eddf8b2560c1e5b",
+      "path": "mods/cupboard-fabric-1.21.8-3.0.jar",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "hash": "d3bd78860580da556990726af3bed1169e69933e",
+      "path": "mods/cloth-config-19.0.147-fabric.jar",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "hash": "5d83119a31fd6da0c55682a113788e9b6b848142",
+      "path": "mods/reeses-sodium-options-fabric-1.8.4+mc1.21.6.jar",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "hash": "0951ad76de856b2e8804f06efc4302f828dc3bff",
+      "path": "mods/c2me-fabric-mc1.21.8-0.3.4.0.0.jar",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "hash": "7969f173ca3b4d499fe58ddf142cee2a86b960d6",
+      "path": "mods/ScalableLux-0.1.5+fabric.e4acdcb-all.jar",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "hash": "25025e67ab4e41b081457396965306aaca95039b",
+      "path": "mods/simplemenu-1.21.8-2.0.jar",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "hash": "768ca85d3a016adb6a4d302ad341ad8944fd3706",
+      "path": "mods/[可选]sodium-extra-fabric-0.6.6+mc1.21.6.jar.disabled",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "hash": "1a60f666e8135dc902f1e68f890a45c48a19b232",
+      "path": "mods/modernfix-fabric-5.20.4-beta.51+mc1.21.7.a724.jar",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "hash": "afe63956769dcaaddf904ca28a528b117323f977",
+      "path": "mods/collective-1.21.8-8.4.jar",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "hash": "1e9b9ec184470aa5d52e0d968b5e87cf087efae2",
+      "path": "mods/moreculling-fabric-1.21.6-1.4.0-beta.1.jar",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "hash": "7c1a4af48ef242d59209052cc684afd089ed11bb",
+      "path": "mods/lithium-fabric-0.18.0+mc1.21.8.jar",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "hash": "56c5a0617863c53cf7e338d6ff862d02801a1f75",
+      "path": "mods/entityculling-fabric-1.8.2-mc1.21.6.jar",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "hash": "2d635c3d938aa3f75b0ec61c7402eeea2f9c30a9",
+      "path": "mods/[可替换]sodium-fabric-0.6.13+mc1.21.6.jar.disabled",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "hash": "b4f7016c133cbea6bf924e3b16a7414906ae4586",
+      "path": "mods/[触摸控制，非ZL2可禁用]TouchController-0.2.1-beta12+fabric-1.21.8.jar.disabled",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "hash": "6ca1457a183266af76099c382b926f56c7e5d007",
+      "path": "mods/BadOptimizations-2.3.0-1.21.6-21.7.jar",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "hash": "f453c744b6013ec7e099e06323c7fa0775a9ca69",
+      "path": "mods/[可选，遇到bug可禁用]sodium-fabric-0.7.0-snapshot+mc1.21.8-build.705.jar",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "hash": "f06784a245c38b595aa8456f105a373679d2635b",
+      "path": "mods/[可选，启用后只会渲染在图形设置中设置的区块渲染数量以提升帧率，建议启用]betterfpsdist-fabric-1.21-6.0.jar.disabled",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "hash": "53d76354587cd1965b842fdce7cff965b5c52fe5",
+      "path": "mods/[可选，需要加装大量模组或设备可用内存不足时启用]ferritecore-8.0.0-fabric.jar.disabled",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "hash": "25202d920f15ad85b35bb8602a2a2ca3b3c9bc9b",
+      "path": "mods/[需要进行多人游戏时启用]vmp-fabric-mc1.21.8-0.2.0+beta.7.207-all.jar.disabled",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "hash": "99263e7d7ae31b4eda6fb66c9790bc2763f9ec3d",
+      "path": "mods/[与钠0.7.0不兼容，若要启用请替换钠的0.7.0版本为0.6.13，启用后记得修改阴影渲染距离]iris-fabric-1.9.1+mc1.21.7.jar.disabled",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "hash": "e059f32375388fa680b005c4dcbfb8cbb1a3c6af",
+      "path": "config/simplemenu.json5",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "hash": "ffee9f72f229cecf72d937de562319590d3cbaa5",
+      "path": "config/simplemenu/background/background.png",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "hash": "a2e525f12c9e11b8547772c858039d12e2c56394",
+      "path": "config/simplemenu/icon/icon_16x16.png",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "hash": "f83fd8821e733c4d4f767428d685b948faec48d0",
+      "path": "config/simplemenu/icon/icon_32x32.png",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "hash": "5a6a4d29b68d4359403ac000671b80ffec497972",
+      "path": "config/simplemenu/logo/edition.png",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "hash": "4625074a8201d2df01f4246648727c2c78a1fedc",
+      "path": "config/simplemenu/logo/logo.png",
+      "force": true,
+      "type": "addon"
+    }
+  ],
+  "forceUpdate": false,
+  "launchInfo": {
+    "javaArgument": [],
+    "launchArgument": [],
+    "minMemory": 0
+  },
+  "libraries": [],
+  "manifestType": "minecraftModpack",
+  "manifestVersion": 2,
+  "name": "OPHN-FA-1.21.8-v1.5.alpha.02-devbuild",
+  "origin": [],
+  "settings": {
+    "install_mods": true,
+    "install_resourcepack": true
+  },
+  "url": "",
+  "version": "1.5+alpha.02-devbuild"
+}
