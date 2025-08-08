@@ -1,0 +1,18 @@
+{
+  "author": "Uniaball",
+  "files": [],
+  "manifestType": "minecraftModpack",
+  "manifestVersion": 1,
+  "minecraft": {
+    "version": "1.21.4",
+    "modLoaders": [
+      {
+        "id": "fabric-0.16.14",
+        "primary": true
+      }
+    ]
+  },
+  "name": "OPHN-FA-1.21.4-v1.4.4R",
+  "overrides": "overrides",
+  "version": "1.4.4R"
+}
