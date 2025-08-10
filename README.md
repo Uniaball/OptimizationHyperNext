@@ -52,7 +52,7 @@ If you have any comments, suggestions, or encounter any bugs while using this Mo
 This is the number of our QQ chat group
 
 ```
-979440529
+759091807
 ```
 
 
